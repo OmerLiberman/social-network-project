@@ -1,4 +1,6 @@
 {
   "mongoURI": "vvv",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "clientIdGithub": "531009080595ab1302f1",
+  "clientSecret": "7f45dff04e221ac435c87efb447609b560deb904"
 }
